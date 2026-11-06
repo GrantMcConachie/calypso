@@ -1,4 +1,4 @@
-ATLAS inspired model for olfaction.
+ATLAS inspired model for odorant-OR pair sampling for experiments.
 
 Ideas:
 
